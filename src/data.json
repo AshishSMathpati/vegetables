@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "name": "Mushroom",
+    "image": "https://images.unsplash.com/photo-1535248901456-b7697e7588ab?w=400&h=500&fit=crop",
+    "price": 499,
+    "description": "Fresh and organic mushrooms, perfect for your culinary creations.",
+    "unit": "100g",
+    "category": "Vegetables",
+    "tags": ["organic", "fresh", "healthy"]
+  },
+  {
+    "id": 2,
+    "name": "Carrot",
+    "image": "https://images.unsplash.com/photo-1447080941183-79fcff72fef4?w=400&h=500&fit=crop",
+    "price": 299,
+    "description": "Crispy and sweet carrots rich in vitamin A.",
+    "unit": "500g",
+    "category": "Vegetables",
+    "tags": ["organic", "fresh"]
+  },
+  {
+    "id": 3,
+    "name": "Broccoli",
+    "image": "https://images.unsplash.com/photo-1599599810694-6d3c6b8ba08f?w=400&h=500&fit=crop",
+    "price": 399,
+    "description": "Nutritious green broccoli for healthy meals.",
+    "unit": "300g",
+    "category": "Vegetables",
+    "tags": ["organic", "healthy", "fresh"]
+  },
+  {
+    "id": 4,
+    "name": "Spinach",
+    "image": "https://images.unsplash.com/photo-1596386339764-a6be51d37c5f?w=400&h=500&fit=crop",
+    "price": 349,
+    "description": "Fresh leafy spinach packed with iron and nutrients.",
+    "unit": "250g",
+    "category": "Vegetables",
+    "tags": ["organic", "fresh", "healthy"]
+  },
+  {
+    "id": 5,
+    "name": "Tomato",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400&h=500&fit=crop",
+    "price": 299,
+    "description": "Ripe and juicy tomatoes for salads and cooking.",
+    "unit": "500g",
+    "category": "Vegetables",
+    "tags": ["fresh", "organic", "healthy"]
+  },
+  {
+    "id": 6,
+    "name": "Cucumber",
+    "image": "https://images.unsplash.com/photo-1609074939912-c5830e1a3c5f?w=400&h=500&fit=crop",
+    "price": 249,
+    "description": "Crisp cucumbers perfect for salads and beverages.",
+    "unit": "400g",
+    "category": "Vegetables",
+    "tags": ["fresh", "organic"]
+  },
+  {
+    "id": 7,
+    "name": "Bell Pepper",
+    "image": "https://images.unsplash.com/photo-1599599810717-271edb8c3eac?w=400&h=500&fit=crop",
+    "price": 349,
+    "description": "Colorful bell peppers rich in vitamin C.",
+    "unit": "300g",
+    "category": "Vegetables",
+    "tags": ["fresh", "healthy"]
+  },
+  {
+    "id": 8,
+    "name": "Lettuce",
+    "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&h=500&fit=crop",
+    "price": 199,
+    "description": "Fresh crisp lettuce for delicious salads.",
+    "unit": "250g",
+    "category": "Vegetables",
+    "tags": ["organic", "fresh"]
+  },
+  {
+    "id": 9,
+    "name": "Onion",
+    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400&h=500&fit=crop",
+    "price": 179,
+    "description": "Pungent and aromatic onions for all recipes.",
+    "unit": "500g",
+    "category": "Vegetables",
+    "tags": ["fresh", "organic"]
+  },
+  {
+    "id": 10,
+    "name": "Garlic",
+    "image": "https://images.unsplash.com/photo-1599599810980-f83ac4cdcd74?w=400&h=500&fit=crop",
+    "price": 249,
+    "description": "Fresh garlic cloves with powerful health benefits.",
+    "unit": "100g",
+    "category": "Vegetables",
+    "tags": ["organic", "fresh", "healthy"]
+  },
+  {
+    "id": 11,
+    "name": "Potato",
+    "image": "https://images.unsplash.com/photo-1599599810694-6d3c6b8ba08f?w=400&h=500&fit=crop",
+    "price": 299,
+    "description": "Versatile potatoes for all your cooking needs.",
+    "unit": "1kg",
+    "category": "Vegetables",
+    "tags": ["fresh", "organic"]
+  },
+  {
+    "id": 12,
+    "name": "Cabbage",
+    "image": "https://images.unsplash.com/photo-1555621601-17461bf6ceb0?w=400&h=500&fit=crop",
+    "price": 249,
+    "description": "Fresh cabbage for nutritious meals.",
+    "unit": "1kg",
+    "category": "Vegetables",
+    "tags": ["fresh", "organic", "healthy"]
+  },
+  {
+    "id": 13,
+    "name": "Cauliflower",
+    "image": "https://images.unsplash.com/photo-1599599810694-6d3c6b8ba08f?w=400&h=500&fit=crop",
+    "price": 399,
+    "description": "Fresh cauliflower rich in antioxidants.",
+    "unit": "500g",
+    "category": "Vegetables",
+    "tags": ["organic", "fresh", "healthy"]
+  },
+  {
+    "id": 14,
+    "name": "Peas",
+    "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&h=500&fit=crop",
+    "price": 349,
+    "description": "Sweet green peas packed with protein.",
+    "unit": "400g",
+    "category": "Vegetables",
+    "tags": ["fresh", "healthy", "organic"]
+  },
+  {
+    "id": 15,
+    "name": "Corn",
+    "image": "https://images.unsplash.com/photo-1599599810980-f83ac4cdcd74?w=400&h=500&fit=crop",
+    "price": 299,
+    "description": "Fresh sweet corn kernels for recipes.",
+    "unit": "2 pieces",
+    "category": "Vegetables",
+    "tags": ["fresh", "healthy"]
+  },
+  {
+    "id": 16,
+    "name": "Apple",
+    "image": "https://images.unsplash.com/photo-1560806887-1295a0f5dda2?w=400&h=500&fit=crop",
+    "price": 349,
+    "description": "Crisp and sweet apples for healthy snacking.",
+    "unit": "1kg",
+    "category": "Fruits",
+    "tags": ["fresh", "healthy", "organic"]
+  },
+  {
+    "id": 17,
+    "name": "Banana",
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=400&h=500&fit=crop",
+    "price": 299,
+    "description": "Yellow and creamy bananas rich in potassium.",
+    "unit": "1kg",
+    "category": "Fruits",
+    "tags": ["fresh", "healthy"]
+  },
+  {
+    "id": 18,
+    "name": "Orange",
+    "image": "https://images.unsplash.com/photo-1557804506-669714d2e745?w=400&h=500&fit=crop",
+    "price": 379,
+    "description": "Juicy oranges packed with vitamin C.",
+    "unit": "1kg",
+    "category": "Fruits",
+    "tags": ["fresh", "healthy", "organic"]
+  },
+  {
+    "id": 19,
+    "name": "Mango",
+    "image": "https://images.unsplash.com/photo-1585864299869-592a1dbc1cb1?w=400&h=500&fit=crop",
+    "price": 499,
+    "description": "King of fruits, sweet and aromatic mangoes.",
+    "unit": "1kg",
+    "category": "Fruits",
+    "tags": ["fresh", "healthy", "seasonal"]
+  },
+  {
+    "id": 20,
+    "name": "Strawberry",
+    "image": "https://images.unsplash.com/photo-1587393855258-d8ea9adde84a?w=400&h=500&fit=crop",
+    "price": 449,
+    "description": "Fresh red strawberries sweet and juicy.",
+    "unit": "250g",
+    "category": "Fruits",
+    "tags": ["fresh", "healthy", "organic"]
+  },
+  {
+    "id": 21,
+    "name": "Grapes",
+    "image": "https://images.unsplash.com/photo-1599599810694-6d3c6b8ba08f?w=400&h=500&fit=crop",
+    "price": 399,
+    "description": "Fresh green or red grapes for snacking.",
+    "unit": "500g",
+    "category": "Fruits",
+    "tags": ["fresh", "healthy"]
+  },
+  {
+    "id": 22,
+    "name": "Watermelon",
+    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400&h=500&fit=crop",
+    "price": 499,
+    "description": "Refreshing and hydrating watermelon.",
+    "unit": "1 piece",
+    "category": "Fruits",
+    "tags": ["fresh", "healthy", "seasonal"]
+  },
+  {
+    "id": 23,
+    "name": "Papaya",
+    "image": "https://images.unsplash.com/photo-1599599810980-f83ac4cdcd74?w=400&h=500&fit=crop",
+    "price": 349,
+    "description": "Tropical papaya rich in enzymes and vitamins.",
+    "unit": "1kg",
+    "category": "Fruits",
+    "tags": ["fresh", "healthy", "organic"]
+  },
+  {
+    "id": 24,
+    "name": "Pineapple",
+    "image": "https://images.unsplash.com/photo-1599599810980-f83ac4cdcd74?w=400&h=500&fit=crop",
+    "price": 449,
+    "description": "Tropical pineapple sweet and tangy.",
+    "unit": "1 piece",
+    "category": "Fruits",
+    "tags": ["fresh", "healthy", "seasonal"]
+  },
+  {
+    "id": 25,
+    "name": "Lemon",
+    "image": "https://images.unsplash.com/photo-1587393855258-d8ea9adde84a?w=400&h=500&fit=crop",
+    "price": 199,
+    "description": "Fresh lemons for flavor and health benefits.",
+    "unit": "500g",
+    "category": "Fruits",
+    "tags": ["fresh", "healthy"]
+  },
+  {
+    "id": 26,
+    "name": "Lime",
+    "image": "https://images.unsplash.com/photo-1585864299869-592a1dbc1cb1?w=400&h=500&fit=crop",
+    "price": 199,
+    "description": "Tangy and fresh limes for beverages.",
+    "unit": "500g",
+    "category": "Fruits",
+    "tags": ["fresh", "healthy"]
+  },
+  {
+    "id": 27,
+    "name": "Pomegranate",
+    "image": "https://images.unsplash.com/photo-1599599810980-f83ac4cdcd74?w=400&h=500&fit=crop",
+    "price": 449,
+    "description": "Ruby red pomegranate seeds packed with antioxidants.",
+    "unit": "1kg",
+    "category": "Fruits",
+    "tags": ["fresh", "healthy", "organic"]
+  },
+  {
+    "id": 28,
+    "name": "Guava",
+    "image": "https://images.unsplash.com/photo-1585864299869-592a1dbc1cb1?w=400&h=500&fit=crop",
+    "price": 299,
+    "description": "Creamy guava fruits with health benefits.",
+    "unit": "1kg",
+    "category": "Fruits",
+    "tags": ["fresh", "healthy", "seasonal"]
+  },
+  {
+    "id": 29,
+    "name": "Blueberry",
+    "image": "https://images.unsplash.com/photo-1599599810694-6d3c6b8ba08f?w=400&h=500&fit=crop",
+    "price": 499,
+    "description": "Antioxidant rich blueberries for super health.",
+    "unit": "250g",
+    "category": "Fruits",
+    "tags": ["fresh", "healthy", "organic"]
+  },
+  {
+    "id": 30,
+    "name": "Peach",
+    "image": "https://images.unsplash.com/photo-1599599810980-f83ac4cdcd74?w=400&h=500&fit=crop",
+    "price": 349,
+    "description": "Soft and juicy peaches perfect for summer.",
+    "unit": "1kg",
+    "category": "Fruits",
+    "tags": ["fresh", "healthy", "seasonal"]
+  },
+  {
+    "id": 31,
+    "name": "Milk",
+    "image": "https://images.unsplash.com/photo-1585594694735-6c5e81a0a001?w=400&h=500&fit=crop",
+    "price": 599,
+    "description": "Pure and fresh full cream milk.",
+    "unit": "1 liter",
+    "category": "Dairy",
+    "tags": ["fresh", "healthy", "organic"]
+  },
+  {
+    "id": 32,
+    "name": "Curd",
+    "image": "https://images.unsplash.com/photo-1585594694735-6c5e81a0a001?w=400&h=500&fit=crop",
+    "price": 399,
+    "description": "Creamy yogurt rich in probiotics.",
+    "unit": "500g",
+    "category": "Dairy",
+    "tags": ["fresh", "healthy"]
+  },
+  {
+    "id": 33,
+    "name": "Cheese",
+    "image": "https://images.unsplash.com/photo-1589985643862-5b75ddd4c429?w=400&h=500&fit=crop",
+    "price": 799,
+    "description": "Delicious cheese for all occasions.",
+    "unit": "200g",
+    "category": "Dairy",
+    "tags": ["fresh", "healthy"]
+  },
+  {
+    "id": 34,
+    "name": "Paneer",
+    "image": "https://images.unsplash.com/photo-1589985643862-5b75ddd4c429?w=400&h=500&fit=crop",
+    "price": 499,
+    "description": "Fresh and soft paneer cottage cheese.",
+    "unit": "250g",
+    "category": "Dairy",
+    "tags": ["fresh", "healthy", "organic"]
+  },
+  {
+    "id": 35,
+    "name": "Butter",
+    "image": "https://images.unsplash.com/photo-1589985643862-5b75ddd4c429?w=400&h=500&fit=crop",
+    "price": 699,
+    "description": "Pure butter made from fresh cream.",
+    "unit": "200g",
+    "category": "Dairy",
+    "tags": ["fresh", "healthy", "organic"]
+  },
+  {
+    "id": 36,
+    "name": "Ghee",
+    "image": "https://images.unsplash.com/photo-1585594694735-6c5e81a0a001?w=400&h=500&fit=crop",
+    "price": 999,
+    "description": "Pure clarified ghee for cooking.",
+    "unit": "500ml",
+    "category": "Dairy",
+    "tags": ["fresh", "healthy", "organic"]
+  },
+  {
+    "id": 37,
+    "name": "Ice Cream",
+    "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=400&h=500&fit=crop",
+    "price": 299,
+    "description": "Creamy ice cream for dessert.",
+    "unit": "500ml",
+    "category": "Dairy",
+    "tags": ["fresh", "delicious"]
+  },
+  {
+    "id": 38,
+    "name": "Cream",
+    "image": "https://images.unsplash.com/photo-1585594694735-6c5e81a0a001?w=400&h=500&fit=crop",
+    "price": 449,
+    "description": "Fresh heavy cream for cooking.",
+    "unit": "250ml",
+    "category": "Dairy",
+    "tags": ["fresh", "healthy"]
+  },
+  {
+    "id": 39,
+    "name": "Mozzarella",
+    "image": "https://images.unsplash.com/photo-1589985643862-5b75ddd4c429?w=400&h=500&fit=crop",
+    "price": 649,
+    "description": "Soft mozzarella cheese for pizzas.",
+    "unit": "200g",
+    "category": "Dairy",
+    "tags": ["fresh", "healthy"]
+  },
+  {
+    "id": 40,
+    "name": "Condensed Milk",
+    "image": "https://images.unsplash.com/photo-1585594694735-6c5e81a0a001?w=400&h=500&fit=crop",
+    "price": 349,
+    "description": "Sweetened condensed milk for desserts.",
+    "unit": "400g",
+    "category": "Dairy",
+    "tags": ["fresh", "delicious"]
+  },
+  {
+    "id": 41,
+    "name": "Beet",
+    "image": "https://images.unsplash.com/photo-1599599810980-f83ac4cdcd74?w=400&h=500&fit=crop",
+    "price": 279,
+    "description": "Deep red beets packed with nutrients.",
+    "unit": "500g",
+    "category": "Vegetables",
+    "tags": ["fresh", "healthy", "organic"]
+  },
+  {
+    "id": 42,
+    "name": "Radish",
+    "image": "https://images.unsplash.com/photo-1609074939912-c5830e1a3c5f?w=400&h=500&fit=crop",
+    "price": 199,
+    "description": "Crispy radish for salads.",
+    "unit": "500g",
+    "category": "Vegetables",
+    "tags": ["fresh", "organic"]
+  },
+  {
+    "id": 43,
+    "name": "Zucchini",
+    "image": "https://images.unsplash.com/photo-1609074939912-c5830e1a3c5f?w=400&h=500&fit=crop",
+    "price": 299,
+    "description": "Tender zucchini for healthy recipes.",
+    "unit": "500g",
+    "category": "Vegetables",
+    "tags": ["fresh", "healthy"]
+  },
+  {
+    "id": 44,
+    "name": "Eggplant",
+    "image": "https://images.unsplash.com/photo-1609074939912-c5830e1a3c5f?w=400&h=500&fit=crop",
+    "price": 299,
+    "description": "Purple eggplant for delicious curries.",
+    "unit": "500g",
+    "category": "Vegetables",
+    "tags": ["fresh", "organic"]
+  },
+  {
+    "id": 45,
+    "name": "Ginger",
+    "image": "https://images.unsplash.com/photo-1599599810980-f83ac4cdcd74?w=400&h=500&fit=crop",
+    "price": 199,
+    "description": "Fresh ginger root for health and flavor.",
+    "unit": "200g",
+    "category": "Vegetables",
+    "tags": ["fresh", "healthy", "organic"]
+  },
+  {
+    "id": 46,
+    "name": "Kiwi",
+    "image": "https://images.unsplash.com/photo-1599599810980-f83ac4cdcd74?w=400&h=500&fit=crop",
+    "price": 399,
+    "description": "Sweet and tangy kiwis full of vitamin C.",
+    "unit": "500g",
+    "category": "Fruits",
+    "tags": ["fresh", "healthy"]
+  },
+  {
+    "id": 47,
+    "name": "Coconut",
+    "image": "https://images.unsplash.com/photo-1599599810980-f83ac4cdcd74?w=400&h=500&fit=crop",
+    "price": 349,
+    "description": "Fresh coconut with nutritious kernel.",
+    "unit": "1 piece",
+    "category": "Fruits",
+    "tags": ["fresh", "healthy", "organic"]
+  },
+  {
+    "id": 48,
+    "name": "Avocado",
+    "image": "https://images.unsplash.com/photo-1599599810980-f83ac4cdcd74?w=400&h=500&fit=crop",
+    "price": 449,
+    "description": "Creamy avocados rich in healthy fats.",
+    "unit": "500g",
+    "category": "Fruits",
+    "tags": ["fresh", "healthy", "organic"]
+  },
+  {
+    "id": 49,
+    "name": "Pear",
+    "image": "https://images.unsplash.com/photo-1599599810980-f83ac4cdcd74?w=400&h=500&fit=crop",
+    "price": 349,
+    "description": "Sweet and juicy pears perfect for snacking.",
+    "unit": "1kg",
+    "category": "Fruits",
+    "tags": ["fresh", "healthy"]
+  },
+  {
+    "id": 50,
+    "name": "Drumstick Leaves",
+    "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=400&h=500&fit=crop",
+    "price": 299,
+    "description": "Nutrient rich drumstick leaves for health.",
+    "unit": "250g",
+    "category": "Vegetables",
+    "tags": ["fresh", "healthy", "organic"]
+  }
+]
